@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030423178366",
+    "project_id": "nba-frontend-20330",
+    "storage_bucket": "nba-frontend-20330.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030423178366:android:31af7101e3cf0677657c2f",
+        "android_client_info": {
+          "package_name": "com.nba.wealthright"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-Py10SMhC80yKSb6mtMVKam2828ALMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
